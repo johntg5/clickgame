@@ -1,3 +1,16 @@
+This was created using the Create React App.
+There are a series of images. The application should keep track of the user's score. The user's score starts at 0 and increases by 1 every time a different image is clicked. If the user clicks on an image more than once, the user loses.
+Once the user's score is reset after an incorrect guess, the game restarts.
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
