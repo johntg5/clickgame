@@ -2,7 +2,7 @@
   "name": "clickgame",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://johntg5.github.io"
+  "homepage": "https://johntg5.github.io",
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
@@ -10,7 +10,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-     "deploy": "gh-pages -b master -d build"
+     "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
